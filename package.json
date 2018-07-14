@@ -1,0 +1,27 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "Social network for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amslv/devconnector.git"
+  },
+  "keywords": [
+    "javascript",
+    "mern",
+    "express",
+    "node",
+    "mongodb",
+    "react"
+  ],
+  "author": "Ana Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amslv/devconnector/issues"
+  },
+  "homepage": "https://github.com/amslv/devconnector#readme"
+}
